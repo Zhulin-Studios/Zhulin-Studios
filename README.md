@@ -1,4 +1,4 @@
-## 该仓库链接了 Github Pages 属于网站
+## 该仓库用于网站，链接了 Github Pages
 
 CNAME 文件不要随意动，是外部域名通过CNAME记录映射到这里用的。
 
